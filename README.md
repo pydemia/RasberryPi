@@ -26,3 +26,9 @@ sudo vi /etc/wpa_supplicant/wpa_supplicant.conf
 ```sh
 sudo chmod u+s /sbin/iwconfig
 ```
+
+```sh
+wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-armv7l.sh
+```
+
+
