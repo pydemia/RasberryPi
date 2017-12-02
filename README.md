@@ -32,3 +32,12 @@ wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-armv7l.sh
 ```
 
 
+```sh
+conda install pip
+pip install rrb3
+pip install RPi.GPIO
+
+
+```
+
+
