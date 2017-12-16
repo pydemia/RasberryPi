@@ -40,4 +40,9 @@ pip install RPi.GPIO
 
 ```
 
+### Install `openCV`
 
+```sh
+sudo apt-get install libopencv-dev python-opencv
+sudo apt-get install libatlas-base-dev
+```
