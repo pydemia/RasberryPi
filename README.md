@@ -40,6 +40,11 @@ pip install RPi.GPIO
 
 ```
 
+```sh
+sudo apt-get install libjpeg-dev libtiff5-dev libjasper-dev libpng12-de
+sudo apt-get install build-essential cmake pkg-config
+```
+
 ### Install `openCV`
 
 ```sh
