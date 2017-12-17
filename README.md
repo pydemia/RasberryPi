@@ -45,6 +45,13 @@ sudo apt-get install libjpeg-dev libtiff5-dev libjasper-dev libpng12-de
 sudo apt-get install build-essential cmake pkg-config
 ```
 
+### Setup `vnc`
+
+```sh
+sudo apt-get install x11vnc xinetd
+x11vnc storepasswd
+```
+
 ### Install `openCV`
 
 ```sh
